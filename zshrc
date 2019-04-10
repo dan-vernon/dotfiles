@@ -35,3 +35,4 @@ sudo /etc/init.d/postgresql start
 export DISPLAY=:0
 export DISPLAY=:0
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
