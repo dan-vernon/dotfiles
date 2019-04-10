@@ -49,3 +49,5 @@
 [user]
 	email = danvernon@gmail.com
 	name = Dan Vernon
+[credential]
+	helper = wincred
